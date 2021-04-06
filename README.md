@@ -1,5 +1,5 @@
 # iANNwTF_Project
-Final project for the iANNwTF course in 2020/2021 university of osnabrueck tackeling the topic of future crop yield predictions using a CNN architecture
+Final project for the iANNwTF course in 2020/2021 university of osnabrueck tackling the topic of future crop yield predictions using a CNN architecture
 
 ## How to run
 When all data is pulled the **crop_yield.ipynb** containing all the code can be run.
